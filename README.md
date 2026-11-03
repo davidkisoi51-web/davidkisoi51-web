@@ -26,8 +26,8 @@ I'm a developer focused on **full-stack development**, **backend logic**, and bu
 ## GitHub at a Glance
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=davidkisoi51-web&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00f5d4&icon_color=00f5d4&text_color=c9d1d9&ring_color=00f5d4" alt="David's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidkisoi51-web&layout=compact&hide_border=true&bg_color=0d1117&title_color=00f5d4&text_color=c9d1d9" alt="David's most-used languages" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=davidkisoi51-web&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00f5d4&icon_color=00f5d4&text_color=c9d1d9&ring_color=00f5d4" alt="David's GitHub stats" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=davidkisoi51-web&layout=compact&hide_border=true&bg_color=0d1117&title_color=00f5d4&text_color=c9d1d9" alt="David's most-used languages" />
 </p>
 
 <p align="center">
